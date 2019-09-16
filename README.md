@@ -1,0 +1,1 @@
+this is a python algorithm,it can generate any steps Rubik's Cube.
